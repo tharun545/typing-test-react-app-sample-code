@@ -1,0 +1,12 @@
+{
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "start",
+            "problemMatcher": [
+                "$eslint-compact"
+            ],
+            "label": "start"
+        }
+    ]
+}
